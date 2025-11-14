@@ -1,4 +1,4 @@
-<textarea style="width:100%; height:600px; padding:15px; font-size:14px;">
+
 **📌 Overview**
 
 STATSTEALER scrapes any VLR.gg player profile and automatically generates:
@@ -66,4 +66,4 @@ Icons download once and are reused.
 - Script works with all VLR.gg players, regardless of region.  
 - Works on Windows, MacOS, and Linux.  
 - Tested on Python 3.10–3.12.
-</textarea>
+
